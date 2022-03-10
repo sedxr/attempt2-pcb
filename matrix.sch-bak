@@ -1,0 +1,529 @@
+EESchema Schematic File Version 4
+LIBS:attempt2-pcb-cache
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:D_Small D?
+U 1 1 6237F829
+P 1600 2900
+AR Path="/6237F829" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F829" Ref="D?"  Part="1" 
+F 0 "D?" V 1646 2832 50  0000 R CNN
+F 1 "D_Small" V 1555 2832 50  0000 R CNN
+F 2 "" V 1600 2900 50  0001 C CNN
+F 3 "~" V 1600 2900 50  0001 C CNN
+	1    1600 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1700 2700 1600 2700
+Wire Wire Line
+	1600 2700 1600 2800
+Wire Wire Line
+	2300 2700 2300 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F832
+P 2800 2700
+AR Path="/6237F832" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F832" Ref="K?"  Part="1" 
+F 0 "K?" H 2800 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 2800 2600 60  0001 C CNN
+F 2 "" H 2800 2700 60  0000 C CNN
+F 3 "" H 2800 2700 60  0000 C CNN
+	1    2800 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F838
+P 2400 2900
+AR Path="/6237F838" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F838" Ref="D?"  Part="1" 
+F 0 "D?" V 2446 2832 50  0000 R CNN
+F 1 "D_Small" V 2355 2832 50  0000 R CNN
+F 2 "" V 2400 2900 50  0001 C CNN
+F 3 "~" V 2400 2900 50  0001 C CNN
+	1    2400 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 2700 2400 2700
+Wire Wire Line
+	2400 2700 2400 2800
+Wire Wire Line
+	3100 2700 3100 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F841
+P 2000 2700
+AR Path="/6237F841" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F841" Ref="K?"  Part="1" 
+F 0 "K?" H 2000 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 2000 2600 60  0001 C CNN
+F 2 "" H 2000 2700 60  0000 C CNN
+F 3 "" H 2000 2700 60  0000 C CNN
+	1    2000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F847
+P 3200 2900
+AR Path="/6237F847" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F847" Ref="D?"  Part="1" 
+F 0 "D?" V 3246 2832 50  0000 R CNN
+F 1 "D_Small" V 3155 2832 50  0000 R CNN
+F 2 "" V 3200 2900 50  0001 C CNN
+F 3 "~" V 3200 2900 50  0001 C CNN
+	1    3200 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 2700 3200 2700
+Wire Wire Line
+	3200 2700 3200 2800
+Wire Wire Line
+	3900 2700 3900 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F850
+P 4400 2700
+AR Path="/6237F850" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F850" Ref="K?"  Part="1" 
+F 0 "K?" H 4400 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 4400 2600 60  0001 C CNN
+F 2 "" H 4400 2700 60  0000 C CNN
+F 3 "" H 4400 2700 60  0000 C CNN
+	1    4400 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F856
+P 4000 2900
+AR Path="/6237F856" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F856" Ref="D?"  Part="1" 
+F 0 "D?" V 4046 2832 50  0000 R CNN
+F 1 "D_Small" V 3955 2832 50  0000 R CNN
+F 2 "" V 4000 2900 50  0001 C CNN
+F 3 "~" V 4000 2900 50  0001 C CNN
+	1    4000 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4100 2700 4000 2700
+Wire Wire Line
+	4000 2700 4000 2800
+Wire Wire Line
+	4700 2700 4700 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F85F
+P 3600 2700
+AR Path="/6237F85F" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F85F" Ref="K?"  Part="1" 
+F 0 "K?" H 3600 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 3600 2600 60  0001 C CNN
+F 2 "" H 3600 2700 60  0000 C CNN
+F 3 "" H 3600 2700 60  0000 C CNN
+	1    3600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F865
+P 4800 2900
+AR Path="/6237F865" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F865" Ref="D?"  Part="1" 
+F 0 "D?" V 4846 2832 50  0000 R CNN
+F 1 "D_Small" V 4755 2832 50  0000 R CNN
+F 2 "" V 4800 2900 50  0001 C CNN
+F 3 "~" V 4800 2900 50  0001 C CNN
+	1    4800 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4900 2700 4800 2700
+Wire Wire Line
+	4800 2700 4800 2800
+Wire Wire Line
+	5500 2700 5500 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F86E
+P 6000 2700
+AR Path="/6237F86E" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F86E" Ref="K?"  Part="1" 
+F 0 "K?" H 6000 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 6000 2600 60  0001 C CNN
+F 2 "" H 6000 2700 60  0000 C CNN
+F 3 "" H 6000 2700 60  0000 C CNN
+	1    6000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F874
+P 5600 2900
+AR Path="/6237F874" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F874" Ref="D?"  Part="1" 
+F 0 "D?" V 5646 2832 50  0000 R CNN
+F 1 "D_Small" V 5555 2832 50  0000 R CNN
+F 2 "" V 5600 2900 50  0001 C CNN
+F 3 "~" V 5600 2900 50  0001 C CNN
+	1    5600 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5700 2700 5600 2700
+Wire Wire Line
+	5600 2700 5600 2800
+Wire Wire Line
+	6300 2700 6300 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F87D
+P 5200 2700
+AR Path="/6237F87D" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F87D" Ref="K?"  Part="1" 
+F 0 "K?" H 5200 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 5200 2600 60  0001 C CNN
+F 2 "" H 5200 2700 60  0000 C CNN
+F 3 "" H 5200 2700 60  0000 C CNN
+	1    5200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F883
+P 6400 2900
+AR Path="/6237F883" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F883" Ref="D?"  Part="1" 
+F 0 "D?" V 6446 2832 50  0000 R CNN
+F 1 "D_Small" V 6355 2832 50  0000 R CNN
+F 2 "" V 6400 2900 50  0001 C CNN
+F 3 "~" V 6400 2900 50  0001 C CNN
+	1    6400 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 2700 6400 2700
+Wire Wire Line
+	6400 2700 6400 2800
+Wire Wire Line
+	7100 2700 7100 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F88C
+P 7600 2700
+AR Path="/6237F88C" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F88C" Ref="K?"  Part="1" 
+F 0 "K?" H 7600 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 7600 2600 60  0001 C CNN
+F 2 "" H 7600 2700 60  0000 C CNN
+F 3 "" H 7600 2700 60  0000 C CNN
+	1    7600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F892
+P 7200 2900
+AR Path="/6237F892" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F892" Ref="D?"  Part="1" 
+F 0 "D?" V 7246 2832 50  0000 R CNN
+F 1 "D_Small" V 7155 2832 50  0000 R CNN
+F 2 "" V 7200 2900 50  0001 C CNN
+F 3 "~" V 7200 2900 50  0001 C CNN
+	1    7200 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7300 2700 7200 2700
+Wire Wire Line
+	7200 2700 7200 2800
+Wire Wire Line
+	7900 2700 7900 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F89B
+P 6800 2700
+AR Path="/6237F89B" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F89B" Ref="K?"  Part="1" 
+F 0 "K?" H 6800 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 6800 2600 60  0001 C CNN
+F 2 "" H 6800 2700 60  0000 C CNN
+F 3 "" H 6800 2700 60  0000 C CNN
+	1    6800 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8A1
+P 8000 2900
+AR Path="/6237F8A1" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8A1" Ref="D?"  Part="1" 
+F 0 "D?" V 8046 2832 50  0000 R CNN
+F 1 "D_Small" V 7955 2832 50  0000 R CNN
+F 2 "" V 8000 2900 50  0001 C CNN
+F 3 "~" V 8000 2900 50  0001 C CNN
+	1    8000 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8100 2700 8000 2700
+Wire Wire Line
+	8000 2700 8000 2800
+Wire Wire Line
+	8700 2700 8700 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8AA
+P 9200 2700
+AR Path="/6237F8AA" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8AA" Ref="K?"  Part="1" 
+F 0 "K?" H 9200 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 9200 2600 60  0001 C CNN
+F 2 "" H 9200 2700 60  0000 C CNN
+F 3 "" H 9200 2700 60  0000 C CNN
+	1    9200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8B0
+P 8800 2900
+AR Path="/6237F8B0" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8B0" Ref="D?"  Part="1" 
+F 0 "D?" V 8846 2832 50  0000 R CNN
+F 1 "D_Small" V 8755 2832 50  0000 R CNN
+F 2 "" V 8800 2900 50  0001 C CNN
+F 3 "~" V 8800 2900 50  0001 C CNN
+	1    8800 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 2700 8800 2700
+Wire Wire Line
+	8800 2700 8800 2800
+Wire Wire Line
+	9500 2700 9500 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8B9
+P 8400 2700
+AR Path="/6237F8B9" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8B9" Ref="K?"  Part="1" 
+F 0 "K?" H 8400 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 8400 2600 60  0001 C CNN
+F 2 "" H 8400 2700 60  0000 C CNN
+F 3 "" H 8400 2700 60  0000 C CNN
+	1    8400 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8BF
+P 9600 2900
+AR Path="/6237F8BF" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8BF" Ref="D?"  Part="1" 
+F 0 "D?" V 9646 2832 50  0000 R CNN
+F 1 "D_Small" V 9555 2832 50  0000 R CNN
+F 2 "" V 9600 2900 50  0001 C CNN
+F 3 "~" V 9600 2900 50  0001 C CNN
+	1    9600 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9700 2700 9600 2700
+Wire Wire Line
+	9600 2700 9600 2800
+Wire Wire Line
+	10300 2700 10300 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8C8
+P 10800 2700
+AR Path="/6237F8C8" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8C8" Ref="K?"  Part="1" 
+F 0 "K?" H 10800 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 10800 2600 60  0001 C CNN
+F 2 "" H 10800 2700 60  0000 C CNN
+F 3 "" H 10800 2700 60  0000 C CNN
+	1    10800 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8CE
+P 10400 2900
+AR Path="/6237F8CE" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8CE" Ref="D?"  Part="1" 
+F 0 "D?" V 10446 2832 50  0000 R CNN
+F 1 "D_Small" V 10355 2832 50  0000 R CNN
+F 2 "" V 10400 2900 50  0001 C CNN
+F 3 "~" V 10400 2900 50  0001 C CNN
+	1    10400 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10500 2700 10400 2700
+Wire Wire Line
+	10400 2700 10400 2800
+Wire Wire Line
+	11100 2700 11100 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8D7
+P 10000 2700
+AR Path="/6237F8D7" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8D7" Ref="K?"  Part="1" 
+F 0 "K?" H 10000 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 10000 2600 60  0001 C CNN
+F 2 "" H 10000 2700 60  0000 C CNN
+F 3 "" H 10000 2700 60  0000 C CNN
+	1    10000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8DD
+P 11200 2900
+AR Path="/6237F8DD" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8DD" Ref="D?"  Part="1" 
+F 0 "D?" V 11246 2832 50  0000 R CNN
+F 1 "D_Small" V 11155 2832 50  0000 R CNN
+F 2 "" V 11200 2900 50  0001 C CNN
+F 3 "~" V 11200 2900 50  0001 C CNN
+	1    11200 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11300 2700 11200 2700
+Wire Wire Line
+	11200 2700 11200 2800
+Wire Wire Line
+	11900 2700 11900 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8E6
+P 12400 2700
+AR Path="/6237F8E6" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8E6" Ref="K?"  Part="1" 
+F 0 "K?" H 12400 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 12400 2600 60  0001 C CNN
+F 2 "" H 12400 2700 60  0000 C CNN
+F 3 "" H 12400 2700 60  0000 C CNN
+	1    12400 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8EC
+P 12000 2900
+AR Path="/6237F8EC" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8EC" Ref="D?"  Part="1" 
+F 0 "D?" V 12046 2832 50  0000 R CNN
+F 1 "D_Small" V 11955 2832 50  0000 R CNN
+F 2 "" V 12000 2900 50  0001 C CNN
+F 3 "~" V 12000 2900 50  0001 C CNN
+	1    12000 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12100 2700 12000 2700
+Wire Wire Line
+	12000 2700 12000 2800
+Wire Wire Line
+	12700 2700 12700 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F8F5
+P 11600 2700
+AR Path="/6237F8F5" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F8F5" Ref="K?"  Part="1" 
+F 0 "K?" H 11600 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 11600 2600 60  0001 C CNN
+F 2 "" H 11600 2700 60  0000 C CNN
+F 3 "" H 11600 2700 60  0000 C CNN
+	1    11600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F8FB
+P 12800 2900
+AR Path="/6237F8FB" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F8FB" Ref="D?"  Part="1" 
+F 0 "D?" V 12846 2832 50  0000 R CNN
+F 1 "D_Small" V 12755 2832 50  0000 R CNN
+F 2 "" V 12800 2900 50  0001 C CNN
+F 3 "~" V 12800 2900 50  0001 C CNN
+	1    12800 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12900 2700 12800 2700
+Wire Wire Line
+	12800 2700 12800 2800
+Wire Wire Line
+	13500 2700 13500 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F904
+P 14000 2700
+AR Path="/6237F904" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F904" Ref="K?"  Part="1" 
+F 0 "K?" H 14000 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 14000 2600 60  0001 C CNN
+F 2 "" H 14000 2700 60  0000 C CNN
+F 3 "" H 14000 2700 60  0000 C CNN
+	1    14000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6237F90A
+P 13600 2900
+AR Path="/6237F90A" Ref="D?"  Part="1" 
+AR Path="/62363975/6237F90A" Ref="D?"  Part="1" 
+F 0 "D?" V 13646 2832 50  0000 R CNN
+F 1 "D_Small" V 13555 2832 50  0000 R CNN
+F 2 "" V 13600 2900 50  0001 C CNN
+F 3 "~" V 13600 2900 50  0001 C CNN
+	1    13600 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13700 2700 13600 2700
+Wire Wire Line
+	13600 2700 13600 2800
+Wire Wire Line
+	14300 2700 14300 2100
+$Comp
+L plain60-c-cache:keyboard_parts_KEYSW K?
+U 1 1 6237F913
+P 13200 2700
+AR Path="/6237F913" Ref="K?"  Part="1" 
+AR Path="/62363975/6237F913" Ref="K?"  Part="1" 
+F 0 "K?" H 13200 2933 60  0000 C CNN
+F 1 "keyboard_parts_KEYSW" H 13200 2600 60  0001 C CNN
+F 2 "" H 13200 2700 60  0000 C CNN
+F 3 "" H 13200 2700 60  0000 C CNN
+	1    13200 2700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
