@@ -438,4 +438,51 @@ Text GLabel 1050 2250 0    50   Input ~ 0
 D-
 Text GLabel 1050 2350 0    50   Input ~ 0
 D+
+$Comp
+L Power_Protection:SRV05-4 U2
+U 1 1 6234A89E
+P 3300 1800
+F 0 "U2" H 3300 2481 50  0000 C CNN
+F 1 "SRV05-4" H 3300 2390 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6" H 4000 1350 50  0001 C CNN
+F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 3300 1800 50  0001 C CNN
+	1    3300 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3800 1700
+NoConn ~ 2800 1900
+Wire Wire Line
+	2800 1700 2650 1700
+Wire Wire Line
+	3800 1900 3950 1900
+Text GLabel 2650 1700 0    50   Input ~ 0
+D+
+Text GLabel 3950 1900 2    50   Input ~ 0
+D-
+Wire Wire Line
+	3300 2300 3550 2300
+$Comp
+L power:GND #PWR0113
+U 1 1 623564EB
+P 3550 2300
+F 0 "#PWR0113" H 3550 2050 50  0001 C CNN
+F 1 "GND" H 3555 2127 50  0000 C CNN
+F 2 "" H 3550 2300 50  0001 C CNN
+F 3 "" H 3550 2300 50  0001 C CNN
+	1    3550 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 1300 3550 1300
+$Comp
+L power:VBUS #PWR0114
+U 1 1 6235878A
+P 3550 1300
+F 0 "#PWR0114" H 3550 1150 50  0001 C CNN
+F 1 "VBUS" H 3565 1473 50  0000 C CNN
+F 2 "" H 3550 1300 50  0001 C CNN
+F 3 "" H 3550 1300 50  0001 C CNN
+	1    3550 1300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
