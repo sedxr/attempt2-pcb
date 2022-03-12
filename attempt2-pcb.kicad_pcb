@@ -3294,6 +3294,7 @@
   (module random-keyboard-parts:JST-SR-4 (layer B.Cu) (tedit 5C919B1C) (tstamp 622CCBE9)
     (at 143.51 59.563 270)
     (path /626DFEAA)
+    (attr smd)
     (fp_text reference J1 (at 0 6.5 270) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
