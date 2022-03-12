@@ -2514,7 +2514,7 @@ AR Path="/623EA2A9" Ref="K?"  Part="1"
 AR Path="/62363975/623EA2A9" Ref="K79"  Part="1" 
 F 0 "K79" H 7250 7133 60  0000 C CNN
 F 1 "keyboard_parts_KEYSW" H 7250 6800 60  0001 C CNN
-F 2 "MX_Only:MXOnly-7U-NoLED" H 7250 6900 60  0001 C CNN
+F 2 "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED" H 7250 6900 60  0001 C CNN
 F 3 "" H 7250 6900 60  0000 C CNN
 	1    7250 6900
 	1    0    0    -1  
@@ -2546,7 +2546,7 @@ AR Path="/6249642B" Ref="K?"  Part="1"
 AR Path="/62363975/6249642B" Ref="K73"  Part="1" 
 F 0 "K73" H 7250 6933 60  0000 C CNN
 F 1 "keyboard_parts_KEYSW" H 7250 6600 60  0001 C CNN
-F 2 "MX_Only:MXOnly-6.25U-NoLED" H 7250 6700 60  0001 C CNN
+F 2 "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" H 7250 6700 60  0001 C CNN
 F 3 "" H 7250 6700 60  0000 C CNN
 	1    7250 6700
 	1    0    0    -1  
@@ -2904,4 +2904,7 @@ Wire Wire Line
 	10750 4100 10750 3500
 Wire Wire Line
 	9950 4100 9950 3500
+Wire Wire Line
+	6950 6700 6950 6900
+Connection ~ 6950 6900
 $EndSCHEMATC
