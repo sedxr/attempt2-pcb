@@ -2745,7 +2745,7 @@ AR Path="/62517BDE" Ref="K?"  Part="1"
 AR Path="/62363975/62517BDE" Ref="K36"  Part="1" 
 F 0 "K36" H 13650 5533 60  0000 C CNN
 F 1 "keyboard_parts_KEYSW" H 13650 5200 60  0001 C CNN
-F 2 "MX_Only:MXOnly-ISO-ReversedStabilizers-NoLED" H 13650 5300 60  0001 C CNN
+F 2 "MX_Only:MXOnly-ISO-NoLED" H 13650 5300 60  0001 C CNN
 F 3 "" H 13650 5300 60  0000 C CNN
 	1    13650 5300
 	1    0    0    -1  
